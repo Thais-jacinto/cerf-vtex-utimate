@@ -1,0 +1,10 @@
+{
+    "rich-text#iprumo": { 
+      "props": { 
+        "text": "![alt text](assets/redes/prumo.png)",
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
+        "blockClass": "prumo"
+      }
+    }
+  }

@@ -1,0 +1,42 @@
+{"slider-layout#home": {
+    "children": [
+      "list-context.image-list#demo"
+    ],
+    "props": {
+      "autoplay": {
+        "timeout": 7000,
+        "stopOnHover": true
+      }
+    }
+  },
+
+  "list-context.image-list#demo": {
+    "children": ["slider-layout#demo-images"],
+    "props": {
+      "preload": true,
+      "height": 520,
+      "width":1680,
+      "images": [
+        {
+          "image": "assets/topbar/bannerbf.png",
+          "description": "black friday"
+        },
+        {
+          "image": "assets/topbar/bannerbf.png",
+          "description": "black friday"
+        }
+      ]
+    }
+  },
+
+  "slider-layout#demo-images": {
+    "props": {
+      "itemsPerPage": {
+        "desktop": 1,
+        "tablet": 1,
+        "phone": 1
+      },
+      "infinite": true
+    }
+  }
+}

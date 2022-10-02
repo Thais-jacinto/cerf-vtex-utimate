@@ -1,0 +1,23 @@
+.menuContainer{
+    background: #23475E;
+    height: 61px;
+    padding-top: 8px;
+    display: flex;
+    justify-content: center;
+}
+.styledLinkContent{
+    color: #fff;
+    font-size: 16px;
+    font-family: Ubuntu;
+    margin: 0px 20px;
+}.menuItem--todas{
+    background: #F76161;
+    width: 235px;
+    height: 43px;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-top: 2px;
+}.menuItem--smartphones{
+    margin-left: 35px;
+
+}

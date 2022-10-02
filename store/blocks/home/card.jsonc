@@ -1,0 +1,41 @@
+{"flex-layout.row#cards": {
+    "props": {
+    "blockClass": "cards"},
+
+  "children": [ "flex-layout.col#image-pag","flex-layout.col#image-cert"]
+},
+"flex-layout.col#image-pag": {
+    "props": {
+        "blockClass": "cardf"                    
+      },
+  "children": ["rich-text#text-pag","rich-text#image-master"]
+
+},"rich-text#text-pag": {
+  "props": {
+"blockClass": "pag",
+    "text": "FORMAS DE PAGAMENTO"
+ }
+},"rich-text#image-master": {
+  "props": {
+"blockClass": "master",
+    "text": "![alt text](assets/cards/master.png) ![alt text](assets/cards/visa.png) ![alt text](assets/cards/elo.png) ![alt text](assets/cards/dinners.png)  ![alt text](assets/cards/hiper.png)   ![alt text](assets/cards/pix.png)  ![alt text](assets/cards/boleto.png)"
+ 	}
+	},
+    "flex-layout.col#image-cert": {
+        "props": {
+            "blockClass": "cardf"                    
+          },
+      "children": ["rich-text#text-cert","rich-text#image-certif"]
+    
+    },"rich-text#text-cert": {
+      "props": {
+    "blockClass": "cert",
+        "text": "CERTIFICADOS"
+     }
+    },"rich-text#image-certif": {
+      "props": {
+    "blockClass": "certif",
+        "text": "![alt text](assets/cards/certifi.png) ![alt text](assets/cards/reclame.png) ![alt text](assets/cards/lojac.png)"
+         }
+      }
+}

@@ -1,0 +1,338 @@
+.paragraph--0{
+    background: #F76161;
+    border-radius: 999px;
+    height: 20px;
+    width: 20px;
+    color: #fff;
+    padding-left: 6px;
+    margin-left: 1px;
+    font-size: 14px;
+}.paragraph--seta{
+    width: 20px;
+}.paragraph--seta2{
+    width: 20px;
+}
+
+/*seperação*/
+.container--bolas{
+    margin-top: 50px;
+    cursor: pointer;
+} 
+
+/*seperação*/
+.container--fones{
+    margin-top: 200px;
+    margin-right: -215px;
+    cursor: pointer;
+}
+.container--pcs{
+    margin-top: 200px;
+    cursor: pointer;
+}.container--apple{
+    margin-top: 200px;
+    cursor: pointer;
+    margin-left: -215px;
+    cursor: pointer;
+}.image{
+    cursor: pointer;
+}
+.paragraph--fones{
+    cursor: pointer;
+
+}
+/*seperação*/
+.paragraph--bolas{
+    cursor: pointer;
+}
+.image--bolas{
+    cursor: pointer;
+}
+/*seperação*/
+.paragraph--novos{
+    color:  #23475E;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+/*separação*/
+
+.container--pdp{
+    margin-top: 800px;
+    
+}.paragraph--pdp{
+    color:  #23475E;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+/*separação*/
+
+.paragraph--depoi{
+    color:  #23475E;
+    font-size: 24px;
+    font-weight: 700;
+}.container--depoi{
+    margin-top: 240px;
+    background: #FCFCFC;
+}
+/*separação*/
+.container--prumo{
+    margin-top: 30px;
+}
+.wrapper--insta{
+   margin-bottom: -30px;
+}
+
+/*separação*/
+.image--iphone{
+    width: 100px;
+    height: 100px;
+}.image--star{
+    width: 121px;
+    height: 19px;
+}.paragraph--lorem{
+    max-width: 351px;
+    height: 111px; ;
+}.paragraph--iphonett{
+font-size: 14px;
+font-weight: 700;
+text-align: center;
+}.paragraph--data{
+    font-family: Ubuntu;
+font-size: 14px;
+font-style: italic;
+font-weight: 400;
+text-align: center;
+margin-top: -10px;
+}
+/**/
+.image--tv{
+    margin-top: 30px;
+    
+}.image--startv{
+    width: 121px;
+    height: 19px;
+    margin-top: 18px;
+}
+.image--starcafone{
+    width: 121px;
+    height: 19px;
+    margin-top: 18px;
+}.image--cafone{
+    margin-top: 5px;
+}
+.paragraph--lorem{
+    font-size: 14px;
+    max-width: 351px;
+    }
+    .paragraph--loremtv{
+        font-size: 14px;
+        max-width: 351px;
+        }
+.container--bolas2{
+    background: #FCFCFC;
+   height: 80px;
+   margin-bottom: 50px;
+}
+
+.link--seguir{
+font-size: 15px;
+font-weight: 700;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+cursor: pointer;
+color: #23475E;
+text-decoration: none;
+border:#23475E solid 1px;
+border-radius: 10px;
+box-sizing: border-box;
+padding: 13px;
+}.container--insta{
+    margin-top: 50px;
+}
+.container--fique{
+    background: #F76161;
+    height: 100px;
+    margin-top: 50px;
+}.paragraph--fique{
+font-size: 24px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+}.wrapper--nome{
+    height: 50px;
+width: 356px;
+border-radius: 10px;
+background: #FFFFFF;
+margin-left: 550px;
+cursor: pointer;
+}
+.wrapper--email{
+    height: 50px;
+width: 356px;
+border-radius: 10px;
+background: #FFFFFF;
+margin-left: 300px;
+cursor: pointer;
+}
+.wrapper--cadastrar{
+    height: 50px;
+width: 182px;
+border-radius: 10px;
+background: #23475E;
+cursor: pointer;
+}
+
+.paragraph--nome{
+    color: #878787;
+    margin-left: 20px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.paragraph--email{
+    color: #878787;
+    margin-left: 20px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.link--cadastrar{
+    color: #fff;
+    font-size: 16px;
+    margin-left: 40px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.wrapper--loremf{
+    font-size: 14px;
+    width: 515px;
+    margin-left: 250px;
+}
+.image--iprumo{
+    margin-right: 270px;
+}.wrapper--face{
+    margin-top: 30px;
+    padding-right: 80px
+}
+.paragraph--insti{
+    font-size: 15px;
+    font-weight: 700;
+    color: #23475E;
+}.paragraph--sobre{
+    font-size: 15px;
+    font-weight: 400;
+    color: #23475E;
+    cursor: pointer;
+}.paragraph--lojas{
+    font-size: 15px;
+    font-weight: 400;
+    color: #23475E;
+    margin-top: -10px;
+    cursor: pointer;
+}.paragraph--blog{
+    font-size: 15px;
+    font-weight: 400;
+    color: #23475E;
+    margin-top: -10px;
+    cursor: pointer;
+}
+.container--face{
+    width: 300px;
+}
+.paragraph--privi{
+    width: 200px;
+    font-size: 15px;
+    font-weight: 400;
+    color: #23475E; 
+    cursor: pointer;
+}.paragraph--trocas{
+    width: 200px;
+    font-size: 15px;
+    font-weight: 400;
+    color: #23475E;
+    margin-top: -5px;
+    cursor: pointer;
+}.paragraph--poli{
+    font-size: 15px;
+    font-weight: 700;
+    color: #23475E;
+}.paragraph--formas{
+    width: 200px;
+    font-size: 15px;
+    font-weight: 400;
+    color: #23475E;
+    margin-top: -5px;
+    cursor: pointer;
+}.paragraph--frete{
+    width: 200px;
+    font-size: 15px;
+    font-weight: 400;
+    color: #23475E;
+    margin-top: -5px;
+    cursor: pointer;
+}.paragraph--ajudar{
+    font-size: 15px;
+    font-weight: 700;
+    color: #23475E;
+}
+.paragraph--freq{
+    width: 200px;
+    font-size: 15px;
+    font-weight: 400;
+    color: #23475E; 
+    cursor: pointer;
+}
+.paragraph--comprar{
+    width: 200px;
+    font-size: 15px;
+    font-weight: 400;
+    color: #23475E;
+    margin-top: -10px;
+    cursor: pointer;
+}.paragraph--conos{
+    width: 200px;
+    font-size: 15px;
+    font-weight: 400;
+    color: #23475E;
+    margin-top: -10px;
+    cursor: pointer;
+}
+.wrapper--face{
+    margin-left: 10px;
+}
+.wrapper--master{
+width: 490px;
+padding-left: 160px;
+}
+.paragraph--pag{
+    color: #878787;
+    font-size: 10px;
+    margin-top: 60px;
+}
+.wrapper--certif{
+    margin-left: 170px;
+}.paragraph--cert{
+    color: #878787;
+    font-size: 10px;
+    padding-top: 50px;
+    padding-left: 40px;
+}.container--master{
+    margin-top: 30px;
+}.paragraph--bfooter{
+    font-family: Open Sans;
+font-size: 10px;
+font-weight: 400;
+color: #fff;
+text-align: left;
+width: 869px;
+margin-left: 150px;
+margin-top: 15px;
+}.wrapper--vtex{
+    margin-left: 1080px;
+}.wrapper--prumop{
+    margin-left: 1220px;
+    margin-top: 4px;
+}

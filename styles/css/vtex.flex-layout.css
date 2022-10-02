@@ -1,0 +1,101 @@
+.flexRowContent{
+    height: 80px;
+}
+.flexCol{
+   padding-top: 4px;
+   margin-right: 130px; 
+}.flexRow--treeinfocards1{
+    height: 66px;
+    background: #FCFCFC;
+    
+}.flexRow--shelf1{
+    margin-top: 200px;
+    margin-bottom: 50px;
+    width: 80%;
+    margin-left: 155px;
+    height: 200px;}
+ 
+
+.flexRow--smartphones{
+    margin-bottom: 100px;
+}
+
+.flexRowContent--smartphones{
+    height: 680px;
+    padding-left: 180px;
+}
+.flexRow--promoshelf{
+    margin-top: 180px;
+    width: 80%;
+    margin-left: 155px;
+    margin-bottom: 200px;
+}.flexCol--depoiiphone{   
+    height: 400px;
+    width: 390px;    
+    background: #fff;
+    margin-right: -15px;
+}.flexCol--depoitv{   
+    height: 400px;    
+    width: 390px;   
+    background: #fff;       
+}.flexCol--depoicafone{   
+    height: 400px;     
+    width: 390px; 
+    background: #fff;   
+    margin-left: -90px;   
+}
+
+.flexRow--depoit{
+    height: 400px;
+    padding-left: 150px;
+    background: #FCFCFC;
+}.flexRow--bolls2{
+    background: #FCFCFC;
+}
+.stretchChildrenWidth{
+    max-height: 1px;
+}
+.flexRowContent--linha{
+    height: 400px;
+}.flexRowContent--eletro{
+    height: 250px;
+}.flexRow--fiquep{
+    background: #F76161;
+    display: flex;
+    justify-content: center;
+    height: 115px;
+}.flexRow--footer{
+    height: 250px;
+    
+}
+.flexRowContent--footer{
+    width: 515px;
+    margin-top: 70px;
+}
+.flexCol--iprumo{
+    height: 70px;   
+    margin-left: 600px; 
+}.flexCol--inst{
+    width: 100px;
+    height: 100px;
+    margin-left: 1300px;   
+}
+.flexCol--poli{
+    width: 100px;
+    height: 100px;
+    margin-left: 1400px;   
+}
+.flexCol--ajuda{
+    width: 100px;
+    height: 100px;
+    margin-left: 1600px;   
+}.flexRow--cards{
+    margin-top: 10px;
+    border-top:solid 1px #E5E5E5;
+    max-width: 75%;
+    margin-left: 190px;
+}
+.flexRow--bfooter{
+    margin-top: 50px;
+    background: #23475E;
+}

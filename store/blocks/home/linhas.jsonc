@@ -1,0 +1,38 @@
+{
+    "flex-layout.row#linhas-text": {
+        "props": {
+          "horizontalAlign": "center",
+          "blockClass": "linha"         
+          
+        },
+        "children": [
+         "rich-text#fones",
+         "rich-text#pcs",
+         "rich-text#apple"
+	]
+},
+"rich-text#fones": { 
+    "props": { 
+      "text": "![alt text](assets/linha/fones.png)",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "blockClass": "fones"        
+    }
+  },
+  "rich-text#pcs": { 
+      "props": { 
+        "text": "![alt text](assets/linha/pcs.png)",
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
+        "blockClass": "pcs"        
+      }
+    },
+    "rich-text#apple": { 
+        "props": { 
+          "text": "![alt text](assets/linha/apple.png)",
+          "textAlignment": "CENTER",
+          "textPosition": "CENTER",
+          "blockClass": "apple"        
+        }
+      }
+}

@@ -1,0 +1,78 @@
+{
+    "flex-layout.row#ele-text": {
+        "props": {
+          "horizontalAlign": "center",
+          "blockClass": "eletro"
+         
+          
+        },
+        "children": [
+          "info-card#info",
+          "info-card#fitness",
+          "info-card#eletrodo",
+          "info-card#cell",
+          "info-card#cam",
+          "info-card#games"         
+        ]
+      },
+      "info-card#info": {
+        "props": {
+          "blockClass": "info",
+          "isFullModeStyle": false,
+          "textPosition": "bottom",
+          "callToActionMode": "/informatica",
+          "callToActionText": "INFORMÁTICA",
+          "imageUrl": "assets/eletro/informatica.png"
+        }
+      },
+      "info-card#fitness": {
+        "props": {
+          "blockClass": "fitness",
+          "isFullModeStyle": false,
+          "textPosition": "bottom",
+          "callToActionMode": "/fitness",
+          "callToActionText": "FITNESS",
+          "imageUrl": "assets/eletro/fitness.png"
+        }
+      },
+      "info-card#eletrodo": {
+        "props": {
+          "blockClass": "eletrodo",
+          "isFullModeStyle": false,
+          "textPosition": "bottom",
+          "callToActionMode": "/eletrodomesticos",
+          "callToActionText": "ELETRODOMÉSTICOS ",
+          "imageUrl": "assets/eletro/eletrodo.png"
+        }
+      },
+      "info-card#cell": {
+        "props": {
+          "blockClass": "cell",
+          "isFullModeStyle": false,
+          "textPosition": "bottom",
+          "callToActionMode": "/celulares-telefones",
+          "callToActionText": "CELULARES E TELEFONES",
+          "imageUrl": "assets/eletro/celular.png"
+        }
+      },
+      "info-card#cam": {
+        "props": {
+          "blockClass": "cam",
+          "isFullModeStyle": false,
+          "textPosition": "bottom",
+          "callToActionMode": "/camera-acessorios",
+          "callToActionText": "CÂMERAS E ACESSÓRIOS",
+          "imageUrl": "assets/eletro/camera.png"
+        }
+      },
+      "info-card#games": {
+        "props": {
+          "blockClass": "games",
+          "isFullModeStyle": false,
+          "textPosition": "bottom",
+          "callToActionMode": "/games",
+          "callToActionText": "GAMES",
+          "imageUrl": "assets/eletro/games.png"
+        }
+      }
+}

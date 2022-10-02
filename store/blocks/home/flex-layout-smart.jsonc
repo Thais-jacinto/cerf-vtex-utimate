@@ -1,0 +1,38 @@
+{
+        
+    "flex-layout.row#smartphones": {
+      "props": { 
+        "blockClass": "smartphones",
+        "preventHorizontalStretch": true
+      },
+      "children": [
+        "image#smartphones-image",
+       "slider-layout#sliderphones"
+      ]
+    },
+    "image#smartphones-image": {
+      "props": { 
+        "blockClass": "smart30",
+        "src": "assets/redes/smart.png",
+        "height": 670
+      }
+    },
+    "slider-layout#sliderphones": {
+      "props": {
+        "itemsPerPage": {
+           "desktop": 2, 
+           "tablet": 2,
+            "phone": 2
+          }
+      }
+    },
+    "product-summary-image": {
+      "props": {
+        "showBadge": true,
+        "height": 200,
+        "blockClass": "summary"
+      }
+    }
+    
+    
+  }

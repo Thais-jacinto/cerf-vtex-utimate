@@ -1,0 +1,10 @@
+{
+    "rich-text#seguir": { 
+      "props": { 
+        "text": "[SEGUIR](https://www.instagram.com/prumo.ecommerce/)",
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
+        "blockClass": "seguir"
+      }
+    }
+  }

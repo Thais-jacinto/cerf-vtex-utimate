@@ -1,0 +1,20 @@
+{
+    "flex-layout.row#bolls2-text": {
+        "props": {
+          "horizontalAlign": "center",
+          "blockClass": "bolls2"         
+          
+        },
+        "children": [
+         "rich-text#bolls2"
+	]
+},
+"rich-text#bolls2": { 
+    "props": { 
+      "text": "![alt text](assets/eletro/bolas.png)",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "blockClass": "bolas2"        
+    }
+  }
+}

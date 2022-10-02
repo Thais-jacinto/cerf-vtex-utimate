@@ -1,0 +1,28 @@
+{
+    "flex-layout.row#promoshelf": {
+        "props":{
+            "blockClass":"promoshelf"
+        },
+        "children": ["list-context.product-list#promoshelf"]
+      },
+      "list-context.product-list#promoshelf": {
+        "blocks": ["product-summary.shelf"],
+        "children": ["slider-layout#promo"],
+        "props": {
+          "orderBy": "OrderByTopSaleDESC"
+        }
+      },
+      "slider-layout#promo": {
+        "props": {
+          "itemsPerPage": {
+            "desktop": 4,
+            "tablet": 3,
+            "phone": 1
+          },
+          "infinite": true,
+          "fullWidth": false,
+          "showBadge":"true",
+          "blockClass": "promo"
+        }
+      }
+  }

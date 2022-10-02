@@ -1,0 +1,254 @@
+.imageElement{
+    cursor: pointer;
+   
+}
+.searchBarContainer{
+    padding-top: 22px;
+    margin-right: 130px;
+}
+/*separação*/
+
+.infoCardCallActionText--imageassinante {
+  padding: 0px 30px;
+ }
+ .infoCardCallActionContainer{
+   text-decoration: none;
+ }
+ 
+ .infoCardCallActionText--imageassinante{
+   width: 420px;
+ }
+   
+ .infoCardCallActionText--imageassinante {
+  width:420px;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 17px;
+text-transform: uppercase;
+  font-style: none;
+  color: #444444;
+ text-decoration: none;
+}.infoCardCallActionText--imagempromocoes {
+  width:420px;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 17px;
+text-transform: uppercase;
+  font-style: none;
+  color: #444444;
+ text-decoration: none;
+}.infoCardCallActionText--imagempontos {
+  width:420px;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 17px;
+text-transform: uppercase;
+  font-style: none;
+  color: #444444;
+ text-decoration: none;
+}.infoCardImageContainer--imageassinante{
+  padding-top: 5px;
+  padding-left: 130px ;
+ }.infoCardImageContainer--imagempromocoes{
+  padding-left: 117px ;
+ }.infoCardImageContainer--imagempontos{
+  padding-left: 117px ;
+}
+.infoCardContainer--imageassinante{
+background: #FCFCFC;
+height: 66px;
+}
+.infoCardContainer--imagempromocoes{
+background: #FCFCFC;
+height: 66px;
+}
+
+  .infoCardContainer--imagempontos{
+  background: #FCFCFC;
+  height: 66px;
+}
+
+/*separação*/
+ .infoCardContainer--info {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  height: 180px !important;
+  width: 100%;
+  margin-top: 35px;
+  background: #FCFCFC;
+  cursor: pointer;
+  padding-top: 10px;
+}
+.infoCardCallActionText--info {
+width:420px;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+text-transform: uppercase;
+font-style: none;
+color: #878787;
+text-decoration: none;
+cursor: pointer;
+}
+.infoCardContainer--fitness {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  height: 180px !important;
+  width: 100%;
+  margin-top: 35px;
+  background: #FCFCFC;
+  margin-left: 20px;
+  cursor: pointer;
+
+}
+.infoCardCallActionText--fitness {
+width:420px;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+text-transform: uppercase;
+font-style: none;
+color: #878787;
+text-decoration: none;
+cursor: pointer;
+}.infoCardImageContainer--eletrodo{
+  padding-left: 65px;
+  cursor: pointer;
+}
+.infoCardContainer--eletrodo {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  height: 180px !important;
+  width: 100%;
+  margin-top: 35px;
+  background: #FCFCFC;
+  margin-left: 20px;
+  cursor: pointer;
+  padding-top: 20px;
+}
+.infoCardCallActionText--eletrodo {
+width:420px;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+text-transform: uppercase;
+font-style: none;
+color: #878787;
+text-decoration: none;
+cursor: pointer;
+}.infoCardContainer--cell {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  height: 180px !important;
+  width: 100%;
+  margin-top: 35px;
+  background: #FCFCFC;
+  margin-left: 20px;
+  cursor: pointer;
+  padding-top: 35px;
+}
+.infoCardCallActionText--cell {
+width: 100px;
+flex-wrap: wrap;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+text-transform: uppercase;
+font-style: none;
+color: #878787;
+text-decoration: none;
+cursor: pointer;
+}.infoCardImageContainer--cell{
+  padding-left: 35px;
+  cursor: pointer;
+}.infoCardContainer--cam {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  height: 180px !important;
+  width: 100%;
+  margin-top: 35px;
+  background: #FCFCFC;
+  margin-left: 20px;
+  cursor: pointer;
+  padding-top: 35px;
+}
+.infoCardCallActionText--cam {
+width: 100px;
+flex-wrap: wrap;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+text-transform: uppercase;
+font-style: none;
+color: #878787;
+text-decoration: none;
+cursor: pointer;
+}.infoCardImageContainer--cam{
+  padding-left: 10px;
+  cursor: pointer;
+}.infoCardContainer--games {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  height: 180px !important;
+  width: 100%;
+  margin-top: 35px;
+  background: #FCFCFC;
+  margin-left: 20px;
+  cursor: pointer;
+  padding-top: 35px;
+}
+.infoCardCallActionText--games {
+width: 100px;
+flex-wrap: wrap;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+text-transform: uppercase;
+font-style: none;
+color: #878787;
+text-decoration: none;
+padding-left: 10px;
+cursor: pointer;
+}
+
+/*separação*/
+
+.imageElement--cadeg{
+height: 585px;
+max-width: 482px;
+margin-top: 195px;
+margin-left: 175px;
+cursor: pointer;
+}
+.imageElement--cadep{
+  margin-left: 695px;
+  margin-top: 500px;
+  cursor: pointer;
+}.imageElement--trone{
+  margin-left: 695px;
+  margin-top: 195px;
+  cursor: pointer;
+}
+
+/*separação*/
+
+.imageElement--smart30{
+  height: 670px;
+  margin-right: 100px;
+}
+

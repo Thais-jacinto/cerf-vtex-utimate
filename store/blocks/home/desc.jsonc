@@ -1,0 +1,29 @@
+{
+    "flex-layout.row#desc": {
+        "children": [ "flex-layout.col"]
+      },
+      "flex-layout.col": {
+        "children": ["image#cadeg","image#electronics", "image#major-appliance"]
+      },
+      "image#cadeg": {
+        "props": {
+            "src": "assets/descontaco/cadeg.png",
+          "blockClass": "cadeg",
+          "maxWidth": "100%"
+        }
+      },
+      "image#electronics": {
+        "props": {
+          "src": "assets/descontaco/trone.png",
+          "maxWidth": "100%",
+          "blockClass": "trone"
+        }
+      },
+      "image#major-appliance": {
+        "props": {
+          "src": "assets/descontaco/cadep.png",
+          "maxWidth": "100%",
+          "blockClass": "cadep"
+        }
+      }
+    }

@@ -1,0 +1,29 @@
+{"flex-layout.row#bfooter": {
+    "props": {
+    "blockClass": "bfooter"},
+
+  "children": [ "flex-layout.col#text-bfooter"]
+},
+"flex-layout.col#text-bfooter": {
+    "props": {
+        "blockClass": "cardf"                    
+      },
+  "children": ["rich-text#text-bfooter","rich-text#image-vtex","rich-text#image-prumop"]
+
+},"rich-text#text-bfooter": {
+  "props": {
+"blockClass": "bfooter",
+    "text": "Preços e condições válidas apenas para compras pela internet ou televendas, nesta data ou enquanto houver estoque.Prumo Serviços de Consultoria em e-Commerce LTDA - CNPJ 37.229.264/0001-21 - Rua Domênico Fin, 0 - Farroupilha, RS - Imagens meramente ilustrativas. Todos os direitos reservados © 2021"
+ }
+},"rich-text#image-vtex": {
+  "props": {
+"blockClass": "vtex",
+    "text": "![alt text](assets/bfooter/bfooter.png)  "
+ 	}
+	},"rich-text#image-prumop": {
+        "props": {
+      "blockClass": "prumop",
+          "text": "![alt text](assets/bfooter/prumop.png) "
+           }
+          }
+}

@@ -1,0 +1,20 @@
+{
+    "flex-layout.row#desver": {
+        "props": {
+          "horizontalAlign": "center",
+          "verticalAlign": "center",
+          "preventHorizontalStretch": true,
+          "preventVerticalStretch": true,
+          "fullWidth": true
+        },
+        "children": [     
+          "rich-text#desver"      
+        ]
+      
+        },"rich-text#desver":{
+          "props": {
+          "blockClass": "desver",
+          "text": "![alt text](assets/descontaco/desverde.png)"
+          }
+          }
+}

@@ -1,0 +1,97 @@
+{
+  "store.home": { 
+    "blocks": [
+      "vtex.menu@2.x:menu#category-menu",
+      "slider-layout#home",
+      "flex-layout.row#sb-text",
+      "flex-layout.row#ele-text",
+      "flex-layout.row#bolls-text",
+      "flex-layout.row#linhas-text",
+      "rich-text",
+      "flex-layout.row#shelf",
+      "list-context.product-list#2",
+      "flex-layout.row#desconto",
+      "flex-layout.row#desc",
+      "rich-text#pdp",
+      "flex-layout.row#promoshelf",
+      "flex-layout.row#desver",
+      "rich-text#depoi",
+      "flex-layout.row#depoit",
+      "flex-layout.row#bolls2-text",
+      "rich-text#insta",
+      "rich-text#instat",
+      "rich-text#iprumo",
+      "rich-text#seguir",
+      "rich-text#fique",
+      "flex-layout.row#fiquep",
+      "flex-layout.row#footerv",
+      "flex-layout.row#cards",
+      "flex-layout.row#bfooter"
+      
+    ]
+  },
+  "rich-text": { 
+    "props": { 
+      "text": "Novos Produtos",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "blockClass": "novos"
+    }
+  },"rich-text#fique": { 
+    "props": { 
+      "text": "Fique pordentro de todas as nossa novidades!",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "blockClass": "fique"
+    }
+  },
+  "rich-text#pdp": { 
+    "props": { 
+      "text": "Produtos em Promoção",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "blockClass": "pdp"
+    }
+  },
+  "rich-text#depoi": { 
+    "props": { 
+      "text": "Depoimentos",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "blockClass": "depoi"
+    }
+  },
+  "product-summary.shelf": {
+    "props":{
+      "margin-left": 5, "marginRight": 5
+    },
+    "children": [
+      // "product-summary-description",
+      "product-summary-image",
+      "product-summary-name",
+      "product-summary-price"
+      // "product-summary-sku-selector",
+      // "product-summary-buy-button"
+    ]
+  },
+  "list-context.product-list#1": {
+    "blocks": ["product-summary.shelf"],
+    "children": ["slider-layout"]
+  },
+  "product-summary.shelf#2": {
+    "props": {"marginBottom": 7, "marginTop":7},
+    "children": [
+      // "product-summary-description",
+      "product-summary-image",
+      "product-summary-name",
+      "product-summary-price"
+      // "product-summary-sku-selector",
+      // "product-summary-buy-button"
+    ]
+  },
+  "list-context.product-list#2": {
+    "blocks": ["product-summary.shelf"],
+    "children": ["flex-layout.row#smartphones"]
+  }
+
+}
