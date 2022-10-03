@@ -22,7 +22,7 @@
           "textPosition": "bottom",
           "callToActionMode": "/informatica",
           "callToActionText": "INFORMÁTICA",
-          "imageUrl": "assets/eletro/informatica.png"
+          "imageUrl": "assets/eletronico/informatica.png"
         }
       },
       "info-card#fitness": {
@@ -32,7 +32,7 @@
           "textPosition": "bottom",
           "callToActionMode": "/fitness",
           "callToActionText": "FITNESS",
-          "imageUrl": "assets/eletro/fitness.png"
+          "imageUrl": "assets/eletronico/fitness.png"
         }
       },
       "info-card#eletrodo": {
@@ -42,7 +42,7 @@
           "textPosition": "bottom",
           "callToActionMode": "/eletrodomesticos",
           "callToActionText": "ELETRODOMÉSTICOS ",
-          "imageUrl": "assets/eletro/eletrodo.png"
+          "imageUrl": "assets/eletronico/eletrodo.png"
         }
       },
       "info-card#cell": {
@@ -52,7 +52,7 @@
           "textPosition": "bottom",
           "callToActionMode": "/celulares-telefones",
           "callToActionText": "CELULARES E TELEFONES",
-          "imageUrl": "assets/eletro/celular.png"
+          "imageUrl": "assets/eletronico/celular.png"
         }
       },
       "info-card#cam": {
@@ -62,7 +62,7 @@
           "textPosition": "bottom",
           "callToActionMode": "/camera-acessorios",
           "callToActionText": "CÂMERAS E ACESSÓRIOS",
-          "imageUrl": "assets/eletro/camera.png"
+          "imageUrl": "assets/eletronico/camera.png"
         }
       },
       "info-card#games": {
@@ -72,7 +72,7 @@
           "textPosition": "bottom",
           "callToActionMode": "/games",
           "callToActionText": "GAMES",
-          "imageUrl": "assets/eletro/games.png"
+          "imageUrl": "assets/eletronico/games.png"
         }
       }
 }

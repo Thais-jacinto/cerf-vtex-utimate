@@ -7,21 +7,21 @@
       },
       "image#cadeg": {
         "props": {
-            "src": "assets/descontaco/cadeg.png",
+            "src": "assets/descontao/cadeg.png",
           "blockClass": "cadeg",
           "maxWidth": "100%"
         }
       },
       "image#electronics": {
         "props": {
-          "src": "assets/descontaco/trone.png",
+          "src": "assets/descontao/trone.png",
           "maxWidth": "100%",
           "blockClass": "trone"
         }
       },
       "image#major-appliance": {
         "props": {
-          "src": "assets/descontaco/cadep.png",
+          "src": "assets/descontao/cadep.png",
           "maxWidth": "100%",
           "blockClass": "cadep"
         }

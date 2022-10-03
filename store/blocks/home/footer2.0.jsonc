@@ -18,12 +18,12 @@
 },"rich-text#image-vtex": {
   "props": {
 "blockClass": "vtex",
-    "text": "![alt text](assets/bfooter/bfooter.png)  "
+    "text": "![alt text](assets/footer2.0/bfooter.png)  "
  	}
 	},"rich-text#image-prumop": {
         "props": {
       "blockClass": "prumop",
-          "text": "![alt text](assets/bfooter/prumop.png) "
+          "text": "![alt text](assets/footer2.0/prumop.png) "
            }
           }
 }

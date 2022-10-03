@@ -1,5 +1,5 @@
 {
-    "flex-layout.row#desconto": {
+    "flex-layout.row#desver": {
         "props": {
           "horizontalAlign": "center",
           "verticalAlign": "center",
@@ -8,13 +8,13 @@
           "fullWidth": true
         },
         "children": [     
-          "rich-text#reta"      
+          "rich-text#desver"      
         ]
       
-        },"rich-text#reta":{
+        },"rich-text#desver":{
           "props": {
-          "blockClass": "reta",
-          "text": "![alt text](assets/descontaco/Retangular.png)"
+          "blockClass": "desver",
+          "text": "![alt text](assets/descontao/desverde.png)"
           }
           }
 }

@@ -16,12 +16,12 @@
     },"rich-text#iphone-content": {
       "props": {
 	"blockClass": "iphone",
-        "text": "![alt text](assets/depoi/iphone.png)"
+        "text": "![alt text](assets/depo/iphone.png)"
      }
     },"rich-text#star-content": {
       "props": {
 	"blockClass": "star",
-        "text": "![alt text](assets/depoi/estrelas.png)"
+        "text": "![alt text](assets/depo/estrelas.png)"
      }
     },
 "rich-text#lorem-content": {
@@ -52,12 +52,12 @@
     },"rich-text#tv-content": {
       "props": {
 	"blockClass": "tv",
-        "text": "![alt text](assets/depoi/tv.png)"
+        "text": "![alt text](assets/depo/tv.png)"
      }
     },"rich-text#startv-content": {
       "props": {
 	"blockClass": "startv",
-        "text": "![alt text](assets/depoi/estrelas.png)"
+        "text": "![alt text](assets/depo/estrelas.png)"
      }
     },
 "rich-text#loremtv-content": {
@@ -88,12 +88,12 @@
     },"rich-text#cafone-content": {
       "props": {
 	"blockClass": "cafone",
-        "text": "![alt text](assets/depoi/cafone.png)"
+        "text": "![alt text](assets/depo/cafone.png)"
      }
     },"rich-text#starcafone-content": {
       "props": {
 	"blockClass": "starcafone",
-        "text": "![alt text](assets/depoi/estrelas.png)"
+        "text": "![alt text](assets/depo/estrelas.png)"
      }
     },
 "rich-text#loremcafone-content": {

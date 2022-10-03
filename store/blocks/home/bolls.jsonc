@@ -11,7 +11,7 @@
 },
 "rich-text#bolls": { 
     "props": { 
-      "text": "![alt text](assets/eletro/bolas.png)",
+      "text": "![alt text](assets/eletronico/bol.png)",
       "textAlignment": "CENTER",
       "textPosition": "CENTER",
       "blockClass": "bolas"        

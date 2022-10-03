@@ -18,7 +18,7 @@
 },"rich-text#image-master": {
   "props": {
 "blockClass": "master",
-    "text": "![alt text](assets/cards/master.png) ![alt text](assets/cards/visa.png) ![alt text](assets/cards/elo.png) ![alt text](assets/cards/dinners.png)  ![alt text](assets/cards/hiper.png)   ![alt text](assets/cards/pix.png)  ![alt text](assets/cards/boleto.png)"
+    "text": "![alt text](assets/card/master.png) ![alt text](assets/card/visa.png) ![alt text](assets/card/elo.png) ![alt text](assets/card/dinners.png)  ![alt text](assets/card/hiper.png)   ![alt text](assets/card/pix.png)  ![alt text](assets/card/boleto.png)"
  	}
 	},
     "flex-layout.col#image-cert": {
@@ -35,7 +35,7 @@
     },"rich-text#image-certif": {
       "props": {
     "blockClass": "certif",
-        "text": "![alt text](assets/cards/certifi.png) ![alt text](assets/cards/reclame.png) ![alt text](assets/cards/lojac.png)"
+        "text": "![alt text](assets/card/certifi.png) ![alt text](assets/card/reclame.png) ![alt text](assets/card/lojac.png)"
          }
       }
 }

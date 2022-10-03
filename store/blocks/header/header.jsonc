@@ -18,6 +18,7 @@
   },
   "flex-layout.row#desktop": {
     "props": {
+      "blockClass":"header-topp",
       "horizontalAlign": "center",
       "verticalAlign": "center",
       "preventHorizontalStretch": true,

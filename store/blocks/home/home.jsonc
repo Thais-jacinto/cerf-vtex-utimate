@@ -23,6 +23,8 @@
       "rich-text#iprumo",
       "rich-text#seguir",
       "rich-text#fique",
+
+      
       "flex-layout.row#fiquep",
       "flex-layout.row#footerv",
       "flex-layout.row#cards",

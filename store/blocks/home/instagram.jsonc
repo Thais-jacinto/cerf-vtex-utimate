@@ -1,7 +1,7 @@
 {
   "rich-text#insta": { 
     "props": { 
-      "text": "![alt text](assets/redes/insta1.png)",
+      "text": "![alt text](assets/social/insta1.png)",
       "textAlignment": "CENTER",
       "textPosition": "CENTER",
       "blockClass": "insta"

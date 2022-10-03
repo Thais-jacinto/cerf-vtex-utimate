@@ -13,7 +13,7 @@
     "image#smartphones-image": {
       "props": { 
         "blockClass": "smart30",
-        "src": "assets/redes/smart.png",
+        "src": "assets/social/smart.png",
         "height": 670
       }
     },

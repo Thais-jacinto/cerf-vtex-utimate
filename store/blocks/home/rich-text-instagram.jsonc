@@ -1,7 +1,7 @@
 {
     "rich-text#instat": { 
       "props": { 
-        "text": "![alt text](assets/redes/Instagram.png)",
+        "text": "![alt text](assets/social/Instagram.png)",
         "textAlignment": "top",
         "textPosition": "CENTER",
         "blockClass": "instat"
